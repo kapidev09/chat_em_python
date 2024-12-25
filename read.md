@@ -1,0 +1,1 @@
+este e um chat simples so que em python
